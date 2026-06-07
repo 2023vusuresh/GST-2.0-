@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(
-    page_title="PinnacleGST",
+    page_title="Pinnacle ⚖️ GST",
     page_icon="🧾",
     layout="wide",
     initial_sidebar_state="collapsed"
